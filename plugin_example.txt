@@ -1,0 +1,17 @@
+aws-codebuild
+aws-codecommit-jobs
+aws-codepipeline
+aws-credentials
+aws-java-sdk
+aws-java-sdk-cloudformation
+aws-java-sdk-codebuild
+aws-java-sdk-ec2
+aws-java-sdk-ecr
+aws-java-sdk-ecs
+aws-java-sdk-elasticbeanstalk
+aws-java-sdk-iam
+aws-java-sdk-logs
+aws-java-sdk-minimal
+aws-java-sdk-ssm
+aws-lambda
+aws-lambda-cloud
